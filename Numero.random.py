@@ -1,5 +1,5 @@
 import random
-x= random.randint(0,2)
+x= random.randint(0,100)
 vidas=3
 
 while(vidas>=1):
